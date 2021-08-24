@@ -1,0 +1,221 @@
+/*  for form.js*/
+
+
+/*body{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.box{
+  display:block;
+  align-items:center;
+  justify-content:center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin: 10px;
+  padding: 5px;
+  background:url("./logo.svg") repeat no-repeat center/cover;
+  height: 100vh;
+  width: 600px;
+  border: black;
+  border-radius: 10px;
+  
+  
+}
+
+.box form{
+  top: 10px;
+  width: 400px;
+  background:transparent;
+  margin: 20px auto;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.5);
+
+}
+
+.box form input{
+  margin: 5px;
+  height: 15px;
+  
+}
+
+button{
+  top: 10px;
+  font-weight: bolder;
+  color: black;
+  box-shadow: 5px  5px 5px 5px rgba(0,0,0,0.5);
+
+}
+
+button:hover{
+  background: green;
+}*/
+
+
+
+/*  for todos.js*/
+
+/*body{
+  margin: 0px;
+  padding: 0px;
+  background-color: blueviolet;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.main-div{
+  width: 100%;
+  height: 100vh;
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.center-div{
+  width: 25%;
+  height: 80vh;
+  background-color: white;
+  box-shadow:  5px 5px 5px 5px rgba(0,0,0,0.5);
+  border-radius: 10px;
+}
+
+h1{
+  color: white;
+  font-weight: bolder;
+  background-color: darkviolet;
+}
+
+.center-div input{
+  text-align: center;
+  height: 30px;
+  top: 10px;
+  outline: none;
+  border: none;
+  background: transparent;
+  font-size: 15px;
+  font-weight: 500;
+  width: 60%;
+  border-bottom: 2px solid darkviolet;
+
+}
+
+button{
+  border-radius: 10px;
+  color: black;
+  font-weight: bolder;
+
+}
+button:hover{
+  background: darkviolet;
+}
+
+ol li{
+  padding-left: 0px;
+  text-align: left;
+  font-size: 15px;
+  font-weight: 500;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  color: violet;
+  text-transform: capitalize;
+}*/
+
+/*  for food receipe app.js*/
+
+
+*{
+  margin:0px;
+  padding: 0px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  outline: none;
+  text-decoration: none;
+  list-style-type: none;
+  
+}
+
+html{
+  font-size: 62%;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1{
+  font-style: italic;
+  color:brown;
+  text-shadow: 0px opx 5px 5px rgb(0,0,.5);
+  text-transform: uppercase;
+  margin-top: 20px;
+  font: bold;
+  font-weight: bolder;
+  
+
+}
+
+.search-form{
+  width: 500px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background:powderblue;
+  bottom: 5px 5px 5px 5px rgb(0,0,0.5);
+  position: relative;
+  margin-top: 40px;
+  border-radius: 5px;
+}
+
+.search-form input{
+  font-size: 20px;
+  height: 30px;
+  border: none;
+  margin: 5px;
+  border-radius: 5px;
+  text-transform: capitalize;
+
+
+}
+
+.search-form input[type="submit"]{
+  text-transform: capitalize;
+  color: black;
+  
+
+}
+
+.search-form input[type="submit"]:hover{
+
+  background: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
